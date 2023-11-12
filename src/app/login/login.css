@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    height: 15vh;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #234077;
+}
+
+.logo{
+    margin: 0px 20px;
+}
+
+.login-menu{
+    display: flex;
+}
+
+.login-menu li{
+    list-style: none;
+}
+
+.login-menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 20px;
+}

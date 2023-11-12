@@ -12,6 +12,12 @@ const page = () => {
       <br />
       <br />
       <button onClick={()=>router.push("/login")}>Click to visit Login</button>
+      <br />
+      <br />
+      <button onClick={()=>router.push("/about/aboutstudent")}>Go to AboutStudent</button>
+      <br />
+      <br />
+      <button onClick={()=>router.push("/about/aboutcollege")}>Go to AboutCollege</button>
     </div>
   )
 }
