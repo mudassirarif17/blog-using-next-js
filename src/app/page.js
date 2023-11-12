@@ -29,6 +29,9 @@ export default function Home() {
       <br />
       <br />
       <Link href="/studentlist">Click to visit studentlist</Link>
+      <br />
+      <br />
+      <Link href="/study">Click to visit study</Link>
       {/* <User name="Mudassir"/> */}
 
 
